@@ -20,7 +20,7 @@ Each folder in this repository contains a standalone project, complete with the 
 * **Key Features:** Cross-filtering market share donuts, geographic map plotting, and dynamic average deal value KPIs.
 
 
-### 2. Macroeconomic Impact Tracker *(In Progress)*
+### 2. Macroeconomic Impact Tracker 
 * **Domain:** Macroeconomics / Market Research
 * **Impact:** Correlates major macroeconomic indicators (inflation rates, federal interest rates) with historical stock market index performance to identify systemic market vulnerabilities.
 * **Key Features:** Dual-axis trending, complex DAX time-intelligence functions, and parameter-driven "what-if" scenarios. 
