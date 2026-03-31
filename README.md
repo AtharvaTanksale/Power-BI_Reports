@@ -31,6 +31,19 @@ Each folder in this repository contains a standalone project, complete with the 
 * **Impact:** Translates Python-based machine learning predictions into digestible, executive-facing visual reports comparing historical actuals against forecasted trends.
 * **Key Features:** Python visual integration within Power BI, dynamic forecasting bounds, and variance analysis.
 
+
+### 4.   Player Development Engine Project
+* **Doamain:** Sports Analytics / Performance Engineering
+* **Impact:** Bridges the gap between raw box scores and coaching insights by filtering out "game-to-game noise" to identify a player's true developmental trajectory and scaling potential.
+* **Key Features:**
+
+**Automated Python ETL Pipeline:** Extracts live, game-by-game roster box scores via the nba_api to feed dynamic dashboards.
+  
+**Advanced DAX Time-Intelligence:** Utilizes 10-game rolling averages to smooth statistical noise and reveal true developmental trajectories.
+
+**Predictive & Correlative Modeling:** Features interactive "What-If" rotational projections and Usage vs. True Shooting (TS%) efficiency analysis.
+  
+
 ## How to Navigate This Repository
 To interact with these reports locally:
 1. Clone this repository to your local machine.
