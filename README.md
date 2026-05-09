@@ -32,10 +32,6 @@ Each folder in this repository contains a standalone project, complete with the 
 * **Key Features:** Python visual integration within Power BI, dynamic forecasting bounds, and variance analysis.
 
 
-### 4.   Player Development Engine Project
-* **Doamain:** Sports Analytics / Performance Engineering
-* **Impact:** Bridges the gap between raw box scores and coaching insights by filtering out "game-to-game noise" to identify a player's true developmental trajectory and scaling potential.
-* **Key Features:**
 
 **Automated Python ETL Pipeline:** Extracts live, game-by-game roster box scores via the nba_api to feed dynamic dashboards.
   
